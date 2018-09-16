@@ -1,0 +1,22 @@
+{
+  "name": "front-end-gitbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gitbook": "gitbook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiemi1226/front-end-gitbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emiemi1226/front-end-gitbook/issues"
+  },
+  "homepage": "https://github.com/emiemi1226/front-end-gitbook#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
